@@ -1,0 +1,1 @@
+function min = getMinData(selectedCampaign,selectedLocation,
